@@ -84,7 +84,7 @@ height:100%;
     position:absolute;
     top:20px;
     width:90%;
-    margin: 13px 12px
+    margin: 13px 12px 20px 0px
 }
 .headmobile{
     font-weight:bold;
@@ -147,3 +147,4 @@ a,.head{
         display:block
     }
 }
+
